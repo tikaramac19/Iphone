@@ -107,3 +107,14 @@
    bottom: 5%;
    right: 16%;
 }
+
+.black-tick{
+    height: 5px;
+    width: 5px;
+    background: rgb(9, 9, 9);
+    position: absolute;
+    border-radius: 50%;
+    right: 7%;
+    bottom: 24px;
+    
+}
